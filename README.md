@@ -1,4 +1,4 @@
-# Horiseon Cleanup
+# Horiseon
 
 ## Horiseon aims to provide the best exposure for your business in order to increase brand awareness in todays internet and social media dependent market. 
 
